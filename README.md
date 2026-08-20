@@ -2,6 +2,8 @@
 
 ### This extension automatically handles GDPR consent prompts by intercepting the Transparency and Consent Framework (TCF) API. Instead of manually clicking through complex settings on every website, the extension automatically sets your preferences to maximize privacy.
 
+This add-on will set all cookies settings and 'legitmiate interest' to false
+
 Key Features:
 
 - Auto-Reject Cookies: Automatically denies non-essential tracking and advertising cookies.
