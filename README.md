@@ -1,6 +1,6 @@
-#Take control of your privacy without the hassle of cookie banners.
+# Take control of your privacy without the hassle of cookie banners.
 
-This extension automatically handles GDPR consent prompts by intercepting the Transparency and Consent Framework (TCF) API. Instead of manually clicking through complex settings on every website, the extension automatically sets your preferences to maximize privacy.
+### This extension automatically handles GDPR consent prompts by intercepting the Transparency and Consent Framework (TCF) API. Instead of manually clicking through complex settings on every website, the extension automatically sets your preferences to maximize privacy.
 
 Key Features:
 
